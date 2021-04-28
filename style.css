@@ -1,0 +1,22 @@
+
+.yellow {
+background-color: cornflowerblue;
+color: pink;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#medister {
+  font-size: 24;
+  font-weight: bold;
+  text-align: center;
+}
+
+#content {
+  border: 5px dotted cornflowerblue;
+  width: 30%;
+  margin-left: 35%;
+  padding: 20px;
+}
